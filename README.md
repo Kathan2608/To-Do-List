@@ -1,5 +1,5 @@
 To Do List
-![Screenshot of the App](https://github.com/Kathan2608/To-Do-List/blob/main/Screenshot.jpg?raw=true)
+![Screenshot of the App](https://github.com/Kathan2608/To-Do-List/blob/master/Screenshot.jpg?raw=true)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
